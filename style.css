@@ -422,7 +422,7 @@ footer .wave#wave4{
   }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 376px) {
   /*--- navbar --*/
   .navbar{
     width: 576;
