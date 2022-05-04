@@ -431,13 +431,14 @@ footer .wave#wave4{
   }
   
   .logo{
-    height: 40px;
-    width: 65px;
+    height: 60px;
+    width: 100px;
+    margin-left: -5px;
   }
   
   nav ul li a{
-    padding: 5px 7px 5px 7px;
-    font-size: 10px;
+    padding: 8px 10px 8px 10px;
+    font-size: 12px;
     margin-top: 5px;
     margin-right: 10px;
   }
@@ -449,6 +450,7 @@ footer .wave#wave4{
   /*--- content ---*/
   h1{
     text-align: center;
+    font-size: 60px;
   }
   
   .text3{
